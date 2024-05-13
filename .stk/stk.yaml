@@ -8,6 +8,7 @@ metadata:
   stack: smoke-test@1.2.0
 spec:
   type: app
+  app-id: 01HXS2GESED423ZDP217XMY2WT
   plugins:
     - name: workflow-api-smoke-test/smoke-test@1.2.0/standart-infra-plugin-gen-s3@0.0.1
       alias: standart-infra-plugin-gen-s3-1715607125995
